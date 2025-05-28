@@ -1,10 +1,11 @@
-import './App.css';
-import Contador from './pages/contador/Contador';
+import './App.css'
+import Login from './pages/login/Login'
 
 function App() {
+
   return (
     <>
-      <Contador />
+      <Login />
     </>
   )
 }
